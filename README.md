@@ -13,8 +13,8 @@ Sharing my everyday life as a senior web developer Junior Twitch streamer Always
 
 <a href="https://www.twitter.com/michal_codes" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/michal_codes?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/mslepko" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/mslepko?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/michal_codes" target="_blank" rel="noreferrer"><img
+/></a><a href="https://www.github.com/michal_codes" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/michal_codes?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/michal_codes" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/michal_codes?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 ### Skills
 
