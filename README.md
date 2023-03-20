@@ -9,7 +9,7 @@ Sharing my everyday life as a senior web developer Junior Twitch streamer Always
 * 🌍  I'm based in UK
 * 🖥️  See my portfolio at [My Personal Website](http://michalslepko.dev)
 * ✉️  You can contact me at [michal@rootscope.co.uk](mailto:michal@rootscope.co.uk)
-* 🧠  I'm learning GatsbyJS
+* 🧠  I'm learning ReactJS 
 
 <a href="https://www.twitter.com/michal_codes" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/michal_codes?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
