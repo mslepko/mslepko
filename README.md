@@ -9,15 +9,9 @@ Sharing my everyday life as a senior web developer Junior Twitch streamer Always
 * 🌍  I'm based in UK
 * 🖥️  See my portfolio at [My Personal Website](http://michalslepko.dev)
 * ✉️  You can contact me at [michal@rootscope.co.uk](mailto:michal@rootscope.co.uk)
-* 🧠  I'm learning ReactJS 
+* 🧠  I'm learning ReactJS and SwiftUI
 
-<a href="https://www.twitter.com/michal_codes" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/michal_codes?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/mslepko" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/mslepko?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/michal_codes" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/michal_codes?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 ### Skills
-
 <p align="left">
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 <a href="https://www.perl.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/perl-colored.svg" width="36" height="36" alt="Perl" /></a>
