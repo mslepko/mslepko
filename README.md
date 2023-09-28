@@ -8,7 +8,7 @@ Sharing my everyday life as a senior web developer Junior Twitch streamer Always
 
 * 🌍  I'm based in UK
 * 🖥️  See my portfolio at [My Personal Website](http://michalslepko.dev)
-* ✉️  You can contact me at [michal@rootscope.co.uk](mailto:michal@rootscope.co.uk)
+* ✉️  You can contact me at [michal@michalslepko.dev](mailto:michal@michalslepko.dev)
 * 🧠  I'm learning ReactJS and SwiftUI
 
 ### Skills
