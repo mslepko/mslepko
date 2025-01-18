@@ -7,7 +7,8 @@ Full-Stack Developer
 Sharing my everyday life as a senior web developer Junior Twitch streamer Always learning something new
 
 * 🌍  I'm based in UK
-* 🖥️  See my portfolio at [My Personal Website](http://michalslepko.dev)
+* 🖥️  My Personal Website [My Personal Website](http://michalslepko.dev)
+* 🖥️  My Company Website [My Company Website](http://rootscope.dev)
 * ✉️  You can contact me at [michal@michalslepko.dev](mailto:michal@michalslepko.dev)
 * 🧠  I'm learning ReactJS and SwiftUI
 
